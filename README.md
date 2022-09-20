@@ -1,6 +1,6 @@
 # sobre mim
-- 👋 Olá meu nome é @EduuR07
-- 👀  Meu email de comtato é [email] (Eduduardo2007@gmail.com)
+- 👋 Olá meu nome é **@EduuR07**
+- 👀  Meu email de comtato é [email](Eduduardo2007@gmail.com)
 - 🌱  Eu estou aprendendo recentemente a linguagem  de JavaScript e Scratch
 
 <!---
