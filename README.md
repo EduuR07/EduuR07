@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oii! Eu sou o Eduardo 👋
+# Olá, eu sou o Eduardo!! 👋
 
 ### 💻 Desenvolvedor em formação • 🎓 ADS • 🚀 Tecnologia
 
